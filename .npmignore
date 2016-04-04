@@ -12,7 +12,7 @@ coverage
 #linters
 .jscsrc
 .jshintrc
-.eslintrc
+.eslintrc*
 
 #editor settings
 .idea
